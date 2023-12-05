@@ -1,3 +1,6 @@
 (sym_lib_table
-  (lib (name A1200KB-rescue)(type Legacy)(uri ${KIPRJMOD}/A1200KB-rescue.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "A1200KB-rescue")(type "KiCad")(uri "${KIPRJMOD}/A1200KB-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/libraries/Alec/_Schematic_Library/random-keyboard-parts.kicad_sym")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/libraries/Alec/_Schematic_Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
 )
